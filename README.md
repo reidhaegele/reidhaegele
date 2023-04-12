@@ -1,5 +1,4 @@
-### Hi there 👋
-Check out my resume website! (WIP):
+### Check out my resume website! (WIP):
 https://reidhaegele.github.io/
 <!--
 **reidhaegele/reidhaegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
