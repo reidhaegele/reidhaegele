@@ -1,5 +1,5 @@
-### Check out my resume:
-https://reidhaegele.github.io/
+### Google Developer Student Club S&T Lead
+Check out my repos!
 <!--
 **reidhaegele/reidhaegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
