@@ -1,4 +1,4 @@
-### Google Developer Student Club S&T Lead
+### Hi, I'm Reid Haegele
 Check out my repos!
 <!--
 **reidhaegele/reidhaegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
